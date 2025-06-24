@@ -53,3 +53,6 @@ Geographic Performance: The maps indicate regional variations in how British Air
 Data Reliability: While the aircraft performance charts are useful, many aircraft types have very few reviews (1 or 2), making their average ratings statistically unreliable. This highlights a need for more data collection or careful interpretation of these specific segments.
 
 Ground Service Data Gaps: The dashboard shows significant missing data for "Ground Service" over time, indicating a potential issue with data capture or availability for this specific metric.
+
+
+ ![Image Alt](https://github.com/vasuverma17/British-Airways-Customer-Review-Analysis/blob/7cae5b412b8fbd368576ced049b22cdc7e7884ed/Screenshot%202025-06-25%20003207.png )
